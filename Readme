@@ -1,0 +1,21 @@
+Nama : Raffadian Nurahman Pratama
+Kelas : XI - TIB
+
+
+1. buka index.html
+2. Buka web menggunakan vscode extension live server (wajib, karna kalau ga dibuka pakai ini error)
+3. Belum ada settingan media queries resolution CSS jadi diusahakan agar hasil maksimal dibuka menggunakan 
+    monitor resolusi 1920 x 1080
+
+Fitur :
+1. Tievz Resto = Refresh Web
+2. Nama Raffadian Nurahman Pratama = Portofolio Raffa
+3. Menu-Menu untuk memilih menu yang dibutuhkan
+4. Terdapat Langkah-langkah disetiap menu di bagian paragraf paling akhir tulisan "Klik Disini"
+
+
+Dibuat Oleh Raffadian Nurahman Pratama
+TievzStudios | ©2023
+
+
+live server extension = https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
